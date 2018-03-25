@@ -1,2 +1,2 @@
 # HackerRank
-Solutions to problems solved on HackerRank
+30 Days of Code in Python
