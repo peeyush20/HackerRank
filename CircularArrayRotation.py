@@ -1,7 +1,5 @@
 #!/bin/python3
-
 import sys
-
 
 def circularArrayRotation(a, k, m):
     # Complete this function
@@ -36,3 +34,5 @@ if __name__ == "__main__":
         m.append(m_t)
     result = circularArrayRotation(a, k, m)
     print("\n".join(map(str, result)))
+
+   
